@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 useHead({
   title: "Nuxt App", // titleタグ設定
   // link: [
@@ -19,5 +19,5 @@ useHead({
   </div>
 </template>
 
-<style>
+<style lang="scss" scoped>
 </style>

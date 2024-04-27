@@ -1,8 +1,16 @@
+<script setup>
+import FvCont from '../components/TopPage/FvCont.vue'
+</script>
+
+
 <template>
     <div>
-        aaa
+        <FvCont />
         <NuxtLink to="/about">
             About page
         </NuxtLink>
     </div>
 </template>
+
+<style lang="scss" scoped>
+</style>
