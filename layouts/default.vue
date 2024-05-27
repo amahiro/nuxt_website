@@ -1,11 +1,11 @@
-<script setup>
+<script setup lang="ts">
 
 </script>
 <template>
     <div>
-        <HeaderCont />
+        <TheFooter />
         <slot />
-        <FooterCont />
+        <TheFooter />
     </div>
 </template>
 

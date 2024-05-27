@@ -1,5 +1,5 @@
-<script setup>
-import FvCont from '../components/TopPage/FvCont.vue'
+<script setup lang="ts">
+// import FvCont from '../components/TopPage/FvCont.vue'
 </script>
 
 
@@ -12,5 +12,4 @@ import FvCont from '../components/TopPage/FvCont.vue'
     </div>
 </template>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
